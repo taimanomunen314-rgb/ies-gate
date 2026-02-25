@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "IES-GATE v1.0 Specification (Frozen)"
+authors:
+  - family-names: "Wada"
+    given-names: "Hideyuki"
+version: 1.0.0
+date-released: 2026-01-30
+license: MIT
